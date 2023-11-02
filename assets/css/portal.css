@@ -1,33 +1,20 @@
-body{
-    margin: auto;
-    font-family: serif;
-    padding: 20% auto;
-    background-color: rgb(6, 6, 51);
-}
-form{
-    background-color: whitesmoke;
-    box-sizing: border-box;
-    border: 1px black solid;
-    margin-left: 10%;
-    margin-top: 3%;
-    margin-right: 10%;
-    height:500px;
-    box-shadow: 2px 2px 2px 6px black;
-    justify-content: center;
-    align-items: center;
+
+form h1{
     text-align: center;
-    padding-top: 80px;
 }
 input{
-    height:60px;
-    box-shadow: 2px 2px 2px 6px black;
-
+    border: 2px solid darkred;
+    width:90%;
+    height:40px;
+    box-shadow: 1px 1px 1px 5px rgb(116, 79, 79);
 }
-label{
-    margin-right: 20px;
+.container{
+    background-color: whitesmoke;
+    margin-top: 20px;
+    height: 500px;
+    box-shadow: 2px 2px 2px 2px;
 }
 button{
-    height:30px;
-    border: transparent;
-    border-radius: 50%;
+    height:40px;
+    border-radius: 2px !important;
 }
