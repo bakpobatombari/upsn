@@ -1,20 +1,15 @@
-
-form h1{
-    text-align: center;
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
 }
-input{
-    border: 2px solid darkred;
-    width:90%;
-    height:40px;
-    box-shadow: 1px 1px 1px 5px rgb(116, 79, 79);
+.h-custom {
+height: calc(100% - 73px);
 }
-.container{
-    background-color: whitesmoke;
-    margin-top: 20px;
-    height: 500px;
-    box-shadow: 2px 2px 2px 2px;
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
 }
-button{
-    height:40px;
-    border-radius: 2px !important;
 }
