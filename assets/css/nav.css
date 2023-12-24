@@ -1,6 +1,6 @@
 #webnav{
     height: 70px;
-    background: linear-gradient(50deg, rgb(4, 4, 129), rgb(255, 255, 255));
+    background: linear-gradient(50deg, rgba(4, 4, 129, 0.658), rgba(255, 255, 255, 0.432));
     font-family: serif;
 }
 #mobilenav{
