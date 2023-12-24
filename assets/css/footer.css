@@ -1,0 +1,11 @@
+footer{
+    background:linear-gradient(60deg, rgb(4, 4, 129),rgb(0, 0, 0));
+    height:70px;
+    font-family: serif;
+    padding-top: 10px;
+}
+.line{
+    background-color: white;
+    height:3px;
+    border-radius: 2px;
+}

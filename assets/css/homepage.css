@@ -1,0 +1,7 @@
+
+.error{
+    display: none;
+    background-color: red;
+    color:white;
+    height: 30px;
+}
