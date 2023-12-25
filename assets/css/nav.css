@@ -2,8 +2,10 @@
     height: 60px;
     background: linear-gradient(50deg, rgba(4, 4, 129, 0.658), rgba(255, 255, 255, 0.432));
     font-family: serif;
+    z-index: 20;
 }
 #mobilenav{
+    z-index: 10;
     height:70px;
     background: linear-gradient(45deg, rgb(5, 5, 94), white);
 }
@@ -39,8 +41,19 @@
     #webnav{
         display:none;
     }
+    #mobienav{
+        overflow: hidden;;
+    }
     .homepage{
         height:300px;
+    }
+    .offer{
+        height:1200px !important;
+    }
+    .boxes{
+        margin-bottom: 50px;
+        width: 100%;
+        padding: 10px;
     }
 }
 /* for Laptop Screen */
