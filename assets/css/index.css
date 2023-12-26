@@ -4,7 +4,10 @@ body{
 .homepage{
     height:500px;
     margin-bottom: 20px;
-    background: linear-gradient(45deg, rgb(255, 255, 255), navy);
+    background: url('/assets/images/download.jpeg');
+    background-position-x: center;
+    background-repeat: no-repeat;
+    padding-top: 60px;
 }
 .image{
     animation: forwards person 5s infinite;

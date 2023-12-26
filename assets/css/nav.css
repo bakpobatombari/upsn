@@ -1,7 +1,9 @@
 #webnav{
     height: 60px;
-    background: linear-gradient(50deg, rgba(108, 177, 255, 0.658), rgba(5, 0, 73, 0.432));
+    background: linear-gradient(50deg, rgba(108, 177, 255, 0.658),#38b6ff);
     font-family: serif;
+    top:0;
+    margin-bottom: 60px;
     z-index: 20;
 }
 #mobilenav{
