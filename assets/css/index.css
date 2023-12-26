@@ -59,6 +59,7 @@ body{
     }
 }
 .enquire{
+    border-radius: 5px;
     height:500px;
     padding: 200px;
     background-size: 50%;
