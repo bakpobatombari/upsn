@@ -1,13 +1,6 @@
 body{
     font-family:serif;
 }
-.homepage{
-    height:500px;
-    margin-bottom: 20px;
-    background: url('/assets/images/download.jpeg');
-    background-position-x: center;
-    background-repeat: no-repeat;
-}
 .image{
     animation: forwards person 5s infinite;
 }
