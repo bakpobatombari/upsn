@@ -7,7 +7,6 @@ body{
     background: url('/assets/images/download.jpeg');
     background-position-x: center;
     background-repeat: no-repeat;
-    padding-top: 60px;
 }
 .image{
     animation: forwards person 5s infinite;
